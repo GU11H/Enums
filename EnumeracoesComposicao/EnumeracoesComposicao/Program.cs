@@ -24,10 +24,10 @@ namespace Curso {
             Console.WriteLine("Quantos contratos esse funcionário terá?");
             int n = int.Parse(Console.ReadLine());
 
-            for (int i = 0; i < n; i++)
+            for (int i = 1; i <= n; i++)
             {
                 Console.WriteLine($"Informe o #{i}° contrato");
-                Console.Write("Data DD/MM/AAAA");
+                Console.Write("Data (DD/MM/AAAA): ");
                 DateTime data = DateTime.Parse(Console.ReadLine());
                 Console.Write("Valor por hora:");
                 double valorHora = double.Parse(Console.ReadLine());

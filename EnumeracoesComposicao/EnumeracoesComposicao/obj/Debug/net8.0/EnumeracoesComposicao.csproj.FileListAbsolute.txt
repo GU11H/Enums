@@ -1,0 +1,14 @@
+C:\Users\nevesgc\source\repos\EnumeracoesComposicao\EnumeracoesComposicao\bin\Debug\net8.0\EnumeracoesComposicao.exe
+C:\Users\nevesgc\source\repos\EnumeracoesComposicao\EnumeracoesComposicao\bin\Debug\net8.0\EnumeracoesComposicao.deps.json
+C:\Users\nevesgc\source\repos\EnumeracoesComposicao\EnumeracoesComposicao\bin\Debug\net8.0\EnumeracoesComposicao.runtimeconfig.json
+C:\Users\nevesgc\source\repos\EnumeracoesComposicao\EnumeracoesComposicao\bin\Debug\net8.0\EnumeracoesComposicao.dll
+C:\Users\nevesgc\source\repos\EnumeracoesComposicao\EnumeracoesComposicao\bin\Debug\net8.0\EnumeracoesComposicao.pdb
+C:\Users\nevesgc\source\repos\EnumeracoesComposicao\EnumeracoesComposicao\obj\Debug\net8.0\EnumeracoesComposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nevesgc\source\repos\EnumeracoesComposicao\EnumeracoesComposicao\obj\Debug\net8.0\EnumeracoesComposicao.AssemblyInfoInputs.cache
+C:\Users\nevesgc\source\repos\EnumeracoesComposicao\EnumeracoesComposicao\obj\Debug\net8.0\EnumeracoesComposicao.AssemblyInfo.cs
+C:\Users\nevesgc\source\repos\EnumeracoesComposicao\EnumeracoesComposicao\obj\Debug\net8.0\EnumeracoesComposicao.csproj.CoreCompileInputs.cache
+C:\Users\nevesgc\source\repos\EnumeracoesComposicao\EnumeracoesComposicao\obj\Debug\net8.0\EnumeracoesComposicao.dll
+C:\Users\nevesgc\source\repos\EnumeracoesComposicao\EnumeracoesComposicao\obj\Debug\net8.0\refint\EnumeracoesComposicao.dll
+C:\Users\nevesgc\source\repos\EnumeracoesComposicao\EnumeracoesComposicao\obj\Debug\net8.0\EnumeracoesComposicao.pdb
+C:\Users\nevesgc\source\repos\EnumeracoesComposicao\EnumeracoesComposicao\obj\Debug\net8.0\EnumeracoesComposicao.genruntimeconfig.cache
+C:\Users\nevesgc\source\repos\EnumeracoesComposicao\EnumeracoesComposicao\obj\Debug\net8.0\ref\EnumeracoesComposicao.dll
